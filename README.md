@@ -1,30 +1,30 @@
 # MMHAPUniversityQuestionBankSolution
 
 ## Semester-I
-- Paper-I 
-- Paper-II
-- Paper-III
+- Paper-I   [Introduction to Information Technology]() 
+- Paper-II  [Computer Mathematical Foundation]()
+- Paper-III [Communication & Soft Skills]()
 
 ## Semester-II
-- Paper-V
-- Paper-VI
-- Paper-VII
+- Paper-V   [Programming in C]()
+- Paper-VI  [Operating System]()
+- Paper-VII [Computer System Architecture]()
 
 ## Semester-III
-- Paper-IX
-- Paper-X
-- Paper-XI
+- Paper-IX [Programming in C++]()
+- Paper-X  [System Analysis & Design]()
+- Paper-XI [Data Structure]()
 
 ## Semester-IV
-- Paper-XIII
-- Paper-XIV
-- Paper-XV
+- Paper-XIII [Data Communication & Computer Network]()
+- Paper-XIV [Relation Data Base Management System]()
+- Paper-XV [Visual Basic .NET]()
 
 ## Semester-V
-- Paper-XVII
-- Paper-XVIII
-- Paper-XIX
+- Paper-XVII [Software Engineering]()
+- Paper-XVIII [Computer Graphics]()
+- Paper-XIX [Java Programming]()
 
 ## Semester-VI
-- Paper-XXI
-- Paper-XXII
+- Paper-XXI  [Artificial Intelligence]()
+- Paper-XXII [Advanced Micro Processors System]()
